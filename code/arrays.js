@@ -103,8 +103,8 @@ stoppingAtDurham = false;
  * If we are stopping at Durham, print "Yay Durham!" to the terminal. If not print "Aww...".
  */
 
-if(stoppingAtDurham === true){
-    console.log("Yay Durham");
-} else {
-    console.log("Aww...");
-}
+// if(stoppingAtDurham === true){
+//     console.log("Yay Durham");
+// } else {
+//     console.log("Aww...");
+// }
